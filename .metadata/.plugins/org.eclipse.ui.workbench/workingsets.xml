@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1448400310173_1" label="Tussle Royale" name="Tussle Royale">
+<item elementID="=Tussle Royale" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=The 69th Tussle Royale-core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=The 69th Tussle Royale-android" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=The 69th Tussle Royale-desktop" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=The 69th Tussle Royale-ios" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1448398963229_0" label="Window Working Set" name="Aggregate for window 1448398963227"/>
+</workingSetManager>
